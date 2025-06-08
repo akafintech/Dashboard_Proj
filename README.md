@@ -5,9 +5,9 @@
  
 
 # 기술 스택
->> python 3.10.11
->> node 20.12.1
->> mysql
+> python 3.10.11  
+> node 20.12.1  
+> mysql  
 
 # 구성
 
